@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214215983637",
+    "firebase_url": "https://basedatekhametov.firebaseio.com",
+    "project_id": "basedatekhametov",
+    "storage_bucket": "basedatekhametov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214215983637:android:7207b375265e8c3744c41c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214215983637-3pteo4574fvp93enmilg9hh5o01dpbfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZiSmHsKmjKIRkmIxeViqMcGHTgUoOZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214215983637-3pteo4574fvp93enmilg9hh5o01dpbfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
